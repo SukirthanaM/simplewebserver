@@ -22,7 +22,6 @@ Testing the webserver.
 
 ## PROGRAM:
 ```
-
 <html>
     <body>
         <h1 align="center">Device Properties(Sukirthana.M 24005497)</h1>
